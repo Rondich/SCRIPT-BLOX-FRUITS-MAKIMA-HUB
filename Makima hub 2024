@@ -1,0 +1,2 @@
+i= 1 or math.random(1,1)
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/KeneiKung/Uploaded_Contents/main/Makima.Cum-Index='..tostring(i)))()
